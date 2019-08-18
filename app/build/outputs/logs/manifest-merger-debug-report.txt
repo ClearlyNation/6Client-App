@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\72c57b324c34bd3f26774ea5deb79776\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\314fe03769dec573becd7f205faed522\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05b103cc8d79fdcd70cfed3bc64d269f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\02ec9989997eecabf7704a5cd033c0e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e701c9b4266702179989b0c344ffeb39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e1245b762ae9b28e0057c21c3d632c56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\2fcb51a1c0a1dbfb717f9e176d654512\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\dd434c435003dbb258d493762ed61bef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\fe635b61e7a75ad5e200c48c4b5a6ec2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\bce6e8eff9c63323ce724df5930088e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\f0d9937de416d0cb0a6a82d0ea1e311f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\8c040502195ba697a84968e4f2e13559\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\b304cfe7603e7c90bd83c7cf13b52d8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\6686bdc252c6269bac7c4ff9f3d7d047\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\3c65cf587ae6f5dd72fbecc8e7590420\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ca3197c965f22f2a1c5b09ab94faf373\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\d636001aaee24151b8ee6675b370050f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\12810a91823c0e0deb523b9591922a6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\33105d487da1bcc032c9d964750a7196\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e80592e0e20e5248d34b7e11b3637bd6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\59217f009dbb5cfeff660608455ec9dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\f6596c59b06785973257ecf68cfbd69d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\917a18d74eee8c170ca3e0d4d5b2a139\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ecc925481279e778c9827b8606c43e37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\459b8f8c346703a86994daf5aed2bc73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\2143f656246207785c6b451d7e53985b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\c1f792d5ea049d2dd132ef9a510a0dee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05bf170ed983a9dae0ebf4f2cc972ff8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\7ed43aa5a94580549ac3a34d4b2274c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\bed4d2b5cff24b84e2e2b150835f2b86\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ac49d3639d6e9bb2a38b78d14b537475\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\72c57b324c34bd3f26774ea5deb79776\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\72c57b324c34bd3f26774ea5deb79776\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05b103cc8d79fdcd70cfed3bc64d269f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05b103cc8d79fdcd70cfed3bc64d269f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\33105d487da1bcc032c9d964750a7196\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\33105d487da1bcc032c9d964750a7196\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e80592e0e20e5248d34b7e11b3637bd6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e80592e0e20e5248d34b7e11b3637bd6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\33105d487da1bcc032c9d964750a7196\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#me.clearly.firtstapp.MainActivity
+ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\72c57b324c34bd3f26774ea5deb79776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\72c57b324c34bd3f26774ea5deb79776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\314fe03769dec573becd7f205faed522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\314fe03769dec573becd7f205faed522\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05b103cc8d79fdcd70cfed3bc64d269f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05b103cc8d79fdcd70cfed3bc64d269f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\02ec9989997eecabf7704a5cd033c0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\02ec9989997eecabf7704a5cd033c0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e701c9b4266702179989b0c344ffeb39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e701c9b4266702179989b0c344ffeb39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e1245b762ae9b28e0057c21c3d632c56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e1245b762ae9b28e0057c21c3d632c56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\2fcb51a1c0a1dbfb717f9e176d654512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\2fcb51a1c0a1dbfb717f9e176d654512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\dd434c435003dbb258d493762ed61bef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\dd434c435003dbb258d493762ed61bef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\fe635b61e7a75ad5e200c48c4b5a6ec2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\fe635b61e7a75ad5e200c48c4b5a6ec2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\bce6e8eff9c63323ce724df5930088e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\bce6e8eff9c63323ce724df5930088e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\f0d9937de416d0cb0a6a82d0ea1e311f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\f0d9937de416d0cb0a6a82d0ea1e311f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\8c040502195ba697a84968e4f2e13559\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\8c040502195ba697a84968e4f2e13559\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\b304cfe7603e7c90bd83c7cf13b52d8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\b304cfe7603e7c90bd83c7cf13b52d8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\6686bdc252c6269bac7c4ff9f3d7d047\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\6686bdc252c6269bac7c4ff9f3d7d047\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\3c65cf587ae6f5dd72fbecc8e7590420\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\3c65cf587ae6f5dd72fbecc8e7590420\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ca3197c965f22f2a1c5b09ab94faf373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ca3197c965f22f2a1c5b09ab94faf373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\d636001aaee24151b8ee6675b370050f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\d636001aaee24151b8ee6675b370050f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\12810a91823c0e0deb523b9591922a6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\12810a91823c0e0deb523b9591922a6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\33105d487da1bcc032c9d964750a7196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\33105d487da1bcc032c9d964750a7196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e80592e0e20e5248d34b7e11b3637bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\e80592e0e20e5248d34b7e11b3637bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\59217f009dbb5cfeff660608455ec9dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\59217f009dbb5cfeff660608455ec9dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\f6596c59b06785973257ecf68cfbd69d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\f6596c59b06785973257ecf68cfbd69d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\917a18d74eee8c170ca3e0d4d5b2a139\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\917a18d74eee8c170ca3e0d4d5b2a139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ecc925481279e778c9827b8606c43e37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ecc925481279e778c9827b8606c43e37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\459b8f8c346703a86994daf5aed2bc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\459b8f8c346703a86994daf5aed2bc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\2143f656246207785c6b451d7e53985b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\2143f656246207785c6b451d7e53985b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\c1f792d5ea049d2dd132ef9a510a0dee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\c1f792d5ea049d2dd132ef9a510a0dee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05bf170ed983a9dae0ebf4f2cc972ff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\05bf170ed983a9dae0ebf4f2cc972ff8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\7ed43aa5a94580549ac3a34d4b2274c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\7ed43aa5a94580549ac3a34d4b2274c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\bed4d2b5cff24b84e2e2b150835f2b86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\bed4d2b5cff24b84e2e2b150835f2b86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ac49d3639d6e9bb2a38b78d14b537475\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gamer\.gradle\caches\transforms-2\files-2.1\ac49d3639d6e9bb2a38b78d14b537475\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gamer\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml
